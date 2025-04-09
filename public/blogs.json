@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "title": "Why JavaScript Still Dominates the Web",
+      "slug": "why-javascript-still-dominates",
+      "content": "JavaScript continues to dominate web development due to its flexibility, huge ecosystem, and support across all major browsers. From front-end libraries like React to back-end platforms like Node.js, it's everywhere.",
+      "author": "Abu Hurayra Khan",
+      "date": "2025-04-05",
+      "tags": ["JavaScript", "Web Development"],
+      "thumbnail": "/images/js-dominates.webp"
+    },
+    {
+      "id": 2,
+      "title": "Understanding React Hooks in Depth",
+      "slug": "understanding-react-hooks",
+      "content": "React Hooks let you use state and lifecycle methods in functional components. This post explains useState, useEffect, and custom hooks with real-world examples.",
+      "author": "Abu Hurayra Khan",
+      "date": "2025-03-30",
+      "tags": ["React", "Frontend", "Hooks"],
+      "thumbnail": "/images/react-hooks.webp"
+    },
+    {
+      "id": 3,
+      "title": "How to Build a REST API with Express.js",
+      "slug": "build-rest-api-express",
+      "content": "Express.js is a minimal and flexible Node.js web application framework. Learn how to create a CRUD API with Express and connect it to a MongoDB database.",
+      "author": "Abu Hurayra Khan",
+      "date": "2025-03-22",
+      "tags": ["Node.js", "API", "Backend"],
+      "thumbnail": "/images/express-api.webp"
+    },
+    {
+      "id": 4,
+      "title": "CSS Grid vs Flexbox: When to Use Which",
+      "slug": "css-grid-vs-flexbox",
+      "content": "Both CSS Grid and Flexbox are powerful layout tools. This guide compares them and explains which to use depending on your layout goals.",
+      "author": "Abu Hurayra Khan",
+      "date": "2025-03-15",
+      "tags": ["CSS", "Frontend", "Design"],
+      "thumbnail": "/images/grid-vs-flexbox.webp"
+    },
+    {
+      "id": 5,
+      "title": "10 Tips for Writing Clean Code",
+      "slug": "tips-for-clean-code",
+      "content": "Clean code is easier to read, maintain, and scale. Here are 10 tips every developer should follow to keep their codebase tidy and efficient.",
+      "author": "Abu Hurayra Khan",
+      "date": "2025-02-28",
+      "tags": ["Best Practices", "Coding"],
+      "thumbnail": "/images/clean-code.webp"
+    },
+    {
+      "id": 6,
+      "title": "Getting Started with Next.js 14",
+      "slug": "getting-started-nextjs-14",
+      "content": "Next.js 14 introduces new features like partial prerendering, enhanced routing, and faster builds. This guide walks you through creating your first app.",
+      "author": "Abu Hurayra Khan",
+      "date": "2025-02-20",
+      "tags": ["Next.js", "React", "SSR"],
+      "thumbnail": "/images/nextjs14.webp"
+    }
+  ]
+  
